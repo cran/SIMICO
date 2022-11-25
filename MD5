@@ -1,7 +1,11 @@
-bd039592299460e4e78c2cae2d3b899a *DESCRIPTION
-34ab1c43c3c73ae9ca48318310e34c9c *NAMESPACE
-423784a7d2a375a403787ad58a67c669 *NEWS.md
+7004cdea0acf83ebc9b6f6f219f07098 *DESCRIPTION
+de02822d996c82358fab5a0449395798 *NAMESPACE
+694039d13772c0de4fda0c3106229435 *NEWS.md
 f6c0a582aad829ecd7c21d414519b66c *R/allFunctions.R
+8b22de3aef1a2cec693f72991029ea33 *build/vignette.rds
+98fd97770057a785315879261700118c *inst/doc/Vignette.R
+f72aaf7d543fb5ed29f221b94b8de5ba *inst/doc/Vignette.Rmd
+1617031d182e0545aba2a0b381ed72b6 *inst/doc/Vignette.html
 90c0e8df2c641ba76db19dc2b409196e *man/Get_CausalSNPs_bynum.Rd
 7ebd6e8a90a0bd5207ecd9df70b770e1 *man/fd_term.Rd
 1cebd1f471cefa5fdb0863b3c7802a59 *man/gamma_fd.Rd
@@ -27,3 +31,4 @@ c39236f6332087eb643b88400bd64ecd *man/surv_left.Rd
 82d6be8da334d3326802326fbb2ecd7f *man/surv_right.Rd
 481d472e0b5fda97865040ed47df7230 *man/without_one_phen.Rd
 6b3bda1b54ae37a40f8d0716f2ab243b *man/without_two_phen.Rd
+f72aaf7d543fb5ed29f221b94b8de5ba *vignettes/Vignette.Rmd

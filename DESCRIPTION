@@ -1,7 +1,7 @@
 Package: SIMICO
 Type: Package
 Title: Set-Based Inference for Multiple Interval-Censored Outcomes
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
 	person("Jaihee", "Choi", email = "jaiheechoi01@gmail.com", role = c("aut", "cre")),
 	person("Ryan", "Sun", role="aut"))
@@ -9,11 +9,13 @@ Description: Contains tests for association between a set of genetic variants an
 License: GPL-3
 Encoding: UTF-8
 RoxygenNote: 7.1.1
-Imports: bindata, ICSKAT, fastGHQuad, CompQuadForm, stats
+Imports: bindata, fastGHQuad, CompQuadForm, stats, ICSKAT
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-11-06 05:26:21 UTC; jaihe2
+Packaged: 2022-11-25 22:49:29 UTC; jaihe2
 Author: Jaihee Choi [aut, cre],
   Ryan Sun [aut]
 Maintainer: Jaihee Choi <jaiheechoi01@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-11-07 19:50:02 UTC
+Date/Publication: 2022-11-25 23:10:02 UTC
